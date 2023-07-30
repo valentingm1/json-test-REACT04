@@ -1,9 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@gmail.com",
+      "empresa": "MercadoLibre"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@gmail.com",
+      "empresa": "OLX"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@gmail.com",
+      "empresa": "Siderca S.A"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@gmail.com",
+      "empresa": "AliExpress"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@gmail.com",
+      "empresa": "Udemy"
+    }
+  ]
 }
